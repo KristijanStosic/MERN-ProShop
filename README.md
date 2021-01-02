@@ -1,9 +1,6 @@
 # MERN-ProShop
 e-Commerce shop using MongoDB, Express, React and Nodejs. 
 
-
-## Usage
-
 ### ES Modules in Node
 
 ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
